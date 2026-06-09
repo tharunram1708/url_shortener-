@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+passlib
+PyJWT
+python-multipart
+httpx2
+PyMySQL
+python-dotenv
